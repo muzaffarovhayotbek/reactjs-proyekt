@@ -1,0 +1,30 @@
+.header {
+  margin-top: 26px;
+  margin-bottom: 18px;
+}
+
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-list {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.header-list li.active {
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #cda274;
+}
+.header-list li {
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #292f36;
+}
