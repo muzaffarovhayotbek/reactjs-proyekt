@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderIcon from '../../assets/HeaderIcon.svg';
+import HeaderIcon from '../../assets/headerIcon.svg'
 import './Header.css';
 function Header() {
   return (
